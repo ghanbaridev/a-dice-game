@@ -1,10 +1,10 @@
 var images = [
-    "a-dice-game/blob/main/images/dice1.png",
-    "a-dice-game/blob/main/images/dice2.png",
-    "a-dice-game/blob/main/images/dice3.png",
-    "a-dice-game/blob/main/images/dice4.png",
-    "a-dice-game/blob/main/images/dice5.png",
-    "a-dice-game/blob/main/images/dice6.png",
+    "./images/dice1.png",
+    "./images/dice2.png",
+    "./images/dice3.png",
+    "./images/dice4.png",
+    "./images/dice5.png",
+    "./images/dice6.png",
 
 ];
 
