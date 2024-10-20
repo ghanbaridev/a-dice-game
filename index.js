@@ -1,10 +1,10 @@
 var images = [
-    "ghanbaridev/a-dice-game/blob/main/images/dice1.png",
-    "ghanbaridev/a-dice-game/blob/main/images/dice2.png",
-    "ghanbaridev/a-dice-game/blob/main/images/dice3.png",
-    "ghanbaridev/a-dice-game/blob/main/images/dice4.png",
-    "ghanbaridev/a-dice-game/blob/main/images/dice5.png",
-    "ghanbaridev/a-dice-game/blob/main/images/dice6.png",
+    "a-dice-game/blob/main/images/dice1.png",
+    "a-dice-game/blob/main/images/dice2.png",
+    "a-dice-game/blob/main/images/dice3.png",
+    "a-dice-game/blob/main/images/dice4.png",
+    "a-dice-game/blob/main/images/dice5.png",
+    "a-dice-game/blob/main/images/dice6.png",
 
 ];
 
