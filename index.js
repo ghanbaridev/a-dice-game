@@ -1,10 +1,10 @@
 var images = [
-    "https://github.com/ghanbaridev/a-dice-game/tree/main/images/dice1.png",
-    "https://github.com/ghanbaridev/a-dice-game/tree/main/images/dice2.png",
-    "https://github.com/ghanbaridev/a-dice-game/tree/main/images/dice3.png",
-    "https://github.com/ghanbaridev/a-dice-game/tree/main/images/dice4.png",
-    "https://github.com/ghanbaridev/a-dice-game/tree/main/images/dice5.png",
-    "https://github.com/ghanbaridev/a-dice-game/tree/main/images/dice6.png",
+    "ghanbaridev/a-dice-game/blob/main/images/dice1.png",
+    "ghanbaridev/a-dice-game/blob/main/images/dice2.png",
+    "ghanbaridev/a-dice-game/blob/main/images/dice3.png",
+    "ghanbaridev/a-dice-game/blob/main/images/dice4.png",
+    "ghanbaridev/a-dice-game/blob/main/images/dice5.png",
+    "ghanbaridev/a-dice-game/blob/main/images/dice6.png",
 
 ];
 
